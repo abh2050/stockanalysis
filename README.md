@@ -2,6 +2,8 @@
 
 Abhishek Shah Aneesh Nair Randy Wonsowicz
 
+https://youtu.be/jZLJ2Gk_xCU
+
 _ **Abstract–** _ **Stock market prediction is a challenging task. One that many people and companies have spent countless hours on. Despite, or perhaps because of this, it makes it a great metric to test various deep learning models against. This paper presents various deep learning models and compares how well they compute the next day closing price of a chosen stock. This work focuses on implementing previously done models in order to develop a better understanding of how they function. About one year of historical data from Yahoo Finance was gathered and used. Multiple stocks were considered such as Microsoft, Intel, and Ford. Ultimately Apple stock was chosen. The metrics used to measure the success of the models are root mean square error (RMSE), mean square error (MSE), R-squared score (R2), mean gamma deviation (MGD), mean Poisson deviation (MPD), explained regression score (EVS), and the mean absolute error (MAE). The results show that the predictions range from decently accurate to accurate depending on the model used, with the recurrent neural network (RNN) being the best predictor. Depending on the model chosen, a neural network could be a useful addition to help predict the highly volatile stock market.**
 
 _ **Keywords– Deep Neural Networks, K-Nearest Neighbor Network, Random Forest Regression Network, Recurrent Neural Networks, Gated Recurrent Unit Networks, Long Short-Term Memory Networks, Neural Networks.** _
