@@ -1,4 +1,4 @@
-[!Comparison of Models for Predicting Next Day Stock Market Closing Price](https://cdn.mos.cms.futurecdn.net/avQoSGU9uTjFCgtCW3Rrhk.jpg)
+![Comparison of Models for Predicting Next Day Stock Market Closing Price](https://cdn.mos.cms.futurecdn.net/avQoSGU9uTjFCgtCW3Rrhk.jpg)
 # **Comparison of Models for Predicting Next Day Stock Market Closing Price**
 
 Abhishek Shah Aneesh Nair Randy Wonsowicz
