@@ -1,4 +1,14 @@
 ![Comparison of Models for Predicting Next Day Stock Market Closing Price](https://cdn.mos.cms.futurecdn.net/avQoSGU9uTjFCgtCW3Rrhk.jpg)
+
+![Python](https://img.shields.io/badge/Python-3.8-blue?style=flat&logo=python&logoColor=white&link=https://www.python.org/)
+![Pandas](https://img.shields.io/badge/Pandas-1.3.4-blue?style=flat&logo=pandas&logoColor=white&link=https://pandas.pydata.org/)
+![NumPy](https://img.shields.io/badge/NumPy-1.21.2-blue?style=flat&logo=numpy&logoColor=white&link=https://numpy.org/)
+![Keras](https://img.shields.io/badge/Keras-2.8.0-red?style=flat&logo=keras&logoColor=white&link=https://keras.io/)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.7.0-orange?style=flat&logo=tensorflow&logoColor=white&link=https://www.tensorflow.org/)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue?style=flat&logo=matplotlib&logoColor=white&link=https://matplotlib.org/)
+![Yahoo Finance](https://img.shields.io/badge/Yahoo_Finance-API-yellow?style=flat&link=https://finance.yahoo.com/)
+![LSTM](https://img.shields.io/badge/LSTM-NeuralNetworks-purple?style=flat&link=https://en.wikipedia.org/wiki/Long_short-term_memory)
+
 # **Comparison of Models for Predicting Next Day Stock Market Closing Price**
 
 Abhishek Shah Aneesh Nair Randy Wonsowicz
